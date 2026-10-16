@@ -31,7 +31,7 @@ export default function RootLayout({
     <html lang="ja">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      ><script defer src="https://buchi-dev-watch.tomoki-ashizawa.chatgpt.site/sdk.js" data-site="github-teiji-dash-kiwami"></script>
         {children}
       </body>
     </html>
